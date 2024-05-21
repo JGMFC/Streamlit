@@ -1,0 +1,2 @@
+runtime: custom  # Especifica un entorno de ejecución personalizado
+env: flex  # Especifica el ambiente flexible
